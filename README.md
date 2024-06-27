@@ -17,7 +17,7 @@ Util quando desejamos alterar os components vindos de bibliotecas
 
 # view encapsulation 
 
-[none]: faz com que o css de um component afete todos os outros components
+`none`: faz com que o css de um component afete todos os outros components
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.3.
