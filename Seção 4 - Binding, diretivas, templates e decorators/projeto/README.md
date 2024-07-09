@@ -10,5 +10,10 @@ as propriedades são geradas pelo navegador em runtime, devtools -> elements -> 
 
 ## Property binding
 
+```<input [value]="input_text" [type]="inputType" [disabled]="isdisabled">```
+
+[value], [type], [disabled]  são property binding
+
+
 
 
