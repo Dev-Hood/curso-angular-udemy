@@ -7,4 +7,18 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'projeto';
+
+  input_text = "texto inicial alterado"
+
+  inputType = 'password'
+
+  isdisabled = false
+
+  enable(){
+    this.isdisabled = false;
+  }
+
+  disabled(){
+    this.isdisabled = true;
+  }
 }
